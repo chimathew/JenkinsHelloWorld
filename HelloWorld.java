@@ -3,7 +3,7 @@ package com.dodgeandcox.core.models;
 public class HelloWorld {
 	
 	public static void main(String[] args) {
-		System.out.println("hello yo   u");
+		System.out.println("hello you");
 	}
 
 }
